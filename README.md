@@ -8,106 +8,106 @@
 
 [**Aspyre**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Aspyre.png)
 
-[**Atlantis Esports**]()
+[**Atlantis Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Atlantis%20Esports.png)
 
 [**AURA**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/AURA.png)
 
-[**BabaG**]()
+[**BabaG**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/BabaG.png)
 
-[**Beyond Limits**]()
+[**Beyond Limits**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Beyond%20Limits.png)
 
-[**Bucket Jon Boys**]()
+[**Bucket Jon Boys**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Bucket%20Jon%20Boys.png)
 
-[**Celestial Esports**]()
+[**Celestial Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Celestial%20Esports.png)
 
-[**Chicken Coop**]()
+[**Chicken Coop**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Chicken%20Coop.png)
 
-[**Club 333**]()
+[**Club 333**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Club%20333.png)
 
-[**Conscious Gaming**]()
+[**Conscious Gaming**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Conscious%20Gaming.png)
 
-[**counterstrike Team**]()
+[**counterstrike Team**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/counterstrike%20Team.png)
 
-[**deez**]()
+[**deez**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/deez.png)
 
-[**Demolition**]()
+[**Demolition**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Demolition.png)
 
-[**DETONATE**]()
+[**DETONATE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/DETONATE.png)
 
-[**Dice**]()
+[**Dice**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Dice.png)
 
-[**Elusive**]()
+[**Elusive**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Elusive.png)
 
-[**EMPIRE**]()
+[**EMPIRE**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/EMPIRE.png)
 
-[**Enigma**]()
+[**Enigma**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Enigma.png)
 
-[**F5 Esports**]()
+[**F5 Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/F5%20Esports.png)
 
-[**FarmVille**]()
+[**FarmVille**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/FarmVille.png)
 
-[**Fathom Gaming**]()
+[**Fathom Gaming**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Fathom%20Gaming.png)
 
-[**FlyQuest RED**]()
+[**FlyQuest RED**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/FlyQuest%20RED.png)
 
-[**Holly Molly**]()
+[**Holly Molly**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Holly%20Molly.png)
 
-[**House Platypus ESC**]()
+[**House Platypus ESC**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/House%20Platypus%20ESC.png)
 
-[**Houston Spartans**]()
+[**Houston Spartans**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Houston%20Spartans.png)
 
-[**Iowa Stormboar**]()
+[**Iowa Stormboar**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Iowa%20Stormboar.png)
 
-[**Kodex Esports**]()
+[**Kodex Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Kodex%20Esports.png)
 
-[**LAG**]()
+[**LAG**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/LAG.png)
 
-[**Marsborne**]()
+[**Marsborne**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Marsborne.png)
 
-[**my life be like**]()
+[**my life be like**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/my%20life%20be%20like.png)
 
-[**New Legends**]()
+[**New Legends**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/New%20Legends.png)
 
-[**Ninefly Esports**]()
+[**Ninefly Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Ninefly%20Esports.png)
 
-[**North Forge**]()
+[**North Forge**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/North%20Forge.png)
 
-[**NuTorious**]()
+[**NuTorious**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/NuTorious.png)
 
-[**NXG**]()
+[**NXG**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/NXG.png)
 
-[**O'Fire eSports**]()
+[**O'Fire eSports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/O'Fire%20eSports.png)
 
-[**Olympus**]()
+[**Olympus**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Olympus.png)
 
-[**Omen Esports**]()
+[**Omen Esports**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Omen%20Esports.png)
 
-[**Overtake**]()
+[**Overtake**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Overtake.png)
 
-[**regain**]()
+[**regain**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/regain.png)
 
-[**SquadUp**]()
+[**SquadUp**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/SquadUp.png)
 
-[**Team Amplus**]()
+[**Team Amplus**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Team%20Amplus.png)
 
-[**Team Factor**]()
+[**Team Factor**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Team%20Factor.png)
 
-[**Team Skyline**]()
+[**Team Skyline**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Team%20Skyline.png)
 
-[**ThirdSite**]()
+[**ThirdSite**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/ThirdSite.png)
 
-[**Tractors**]()
+[**Tractors**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Tractors.png)
 
-[**UltimateDarklordWizards**]()
+[**UltimateDarklordWizards**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/UltimateDarklordWizards.png)
 
-[**Unreal Nightmare**]()
+[**Unreal Nightmare**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Unreal%20Nightmare.png)
 
-[**VerhovnaRada**]()
+[**VerhovnaRada**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/VerhovnaRada.png)
 
-[**Villainous**]()
+[**Villainous**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Villainous.png)
 
-[**Wanted Goons**]()
+[**Wanted Goons**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Wanted%20Goons.png)
 
-[**Without A Roof**]()
+[**Without A Roof**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Without%20A%20Roof.png)
 
-[**Zomblers**]()
+[**Zomblers**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Zomblers.png)
