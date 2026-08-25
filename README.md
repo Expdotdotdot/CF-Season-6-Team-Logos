@@ -1,16 +1,16 @@
 # Permalinks
 
-[**Addice**]()
+[**Addice**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Addice.png)
 
-[**Arctic Ace**]()
+[**Arctic Ace**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Arctic%20Ace.png)
 
-[**ASCEND**]()
+[**ASCEND**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/ASCEND.png)
 
-[**Aspyre**]()
+[**Aspyre**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/Aspyre.png)
 
 [**Atlantis Esports**]()
 
-[**AURA**]()
+[**AURA**](https://raw.githubusercontent.com/Expdotdotdot/CF-Season-6-Team-Logos/refs/heads/main/AURA.png)
 
 [**BabaG**]()
 
